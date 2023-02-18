@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "201918adf2976a37",
+    "type": "split",
+    "children": [
+      {
+        "id": "59df7eae80921875",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f9f2faf35994720",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system design/Alex Xu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0337f1760572278",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system design/Groks King.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82f06d420f9ea47f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "system design/Scaling Memcache at Facebook.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6c2b91a685874aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "11099f38c4389cce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5ad9b486f3ad4e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "926d26d21ab41288",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f8044cf8eedd718",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f37dd80e7532e84",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5aff82e4dd44c1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07ae8e60ab02f921",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "system design/Alex Xu.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9ef2487c37d97fe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "system design/Alex Xu.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5272d432a6f43b97",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ebeba2b76ebbf62",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "system design/Alex Xu.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7f9f2faf35994720",
+  "lastOpenFiles": [
+    "system design/Groks King.md",
+    "system design/Alex Xu.md",
+    "system design/Scaling Memcache at Facebook.md",
+    "system design/Memcache.md",
+    "README.md"
+  ]
+}
