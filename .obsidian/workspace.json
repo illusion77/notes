@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7f9f2faf35994720",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "system design/Alex Xu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b0337f1760572278",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "system design/Groks King.md",
+                "file": "system design/Alex Xu.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 255.5
   },
   "right": {
     "id": "6f37dd80e7532e84",
@@ -153,12 +141,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,12 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f9f2faf35994720",
+  "active": "b0337f1760572278",
   "lastOpenFiles": [
-    "system design/Groks King.md",
-    "system design/Alex Xu.md",
     "system design/Scaling Memcache at Facebook.md",
-    "system design/Memcache.md",
-    "README.md"
+    "system design/Alex Xu.md",
+    "README.md",
+    "system design/Groks King.md",
+    "system design/Memcache.md"
   ]
 }

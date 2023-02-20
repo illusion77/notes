@@ -48,3 +48,24 @@ Traffic redirection, Data synchronization ([Netflix](https://netflixtechblog.com
 
 # Logging, metrics, automation
 
+
+# Design a rate limiter
+## Client-side or Server-side
+a commercial API gateway is a better option
+
+## Algorithms for rate limiting
+- Token bucket  
+	- Fixed rate, remain requests will be dropped
+	- Pros: easy implement, memory efficient, allows a burst of traffic for short period
+	- Cons: tune capacity and rate (according to latency and throughput of the app)
+- Leaking bucket  
+	- Fixed rate, remain requests will be dropped
+	- Pros: memory efficient, allows a burst of traffic for short period
+	- Cons: tune capacity and rate (according to latency and throughput of the app)
+- Fixed window counter
+	- Fixed counter in each period
+	- Pros: memory efficient
+	- Cons: spike in edges of fixed windows
+- Sliding window log
+	- 
+- Sliding window counter
